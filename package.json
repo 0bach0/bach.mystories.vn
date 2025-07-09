@@ -6,6 +6,9 @@
     "hexo": "^6.3.0",
     "version": "6.3.0"
   },
+  "scripts": {
+    "build": "hexo generate"
+  },
   "dependencies": {
     "hexo": "^6.3.0",
     "hexo-generator-archive": "^1.0.0",
